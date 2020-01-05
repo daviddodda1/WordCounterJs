@@ -6,6 +6,8 @@ this is a simple library to display word-count from input-tags or text-fields on
 
 this library needs [jquery](https://jquery.com/) to function. 
 
+## [Code-pen Example](https://codepen.io/davidreddy293/pen/qBEVeLR)
+
 ### usage
 
 Include the js file in your html code
@@ -31,4 +33,8 @@ the value of this attribute must be equal to the ID of the textarea tag.
 	<span for="DummyID">0/300 Words</span>
 
 
-That's it!! 
+That's it!!
+
+#### Note :
+
+feedback is appreciated. 
