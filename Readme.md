@@ -2,6 +2,9 @@
 
 this is a simple library to display word-count from input-tags or text-fields on a HTML 
 
+## dependency
+
+this library needs [jquery](https://jquery.com/) to function. 
 
 ### usage
 
